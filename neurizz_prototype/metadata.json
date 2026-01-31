@@ -1,0 +1,8 @@
+{
+  "name": "NeuRizz",
+  "description": "A cognitive load balancer for social interactions using Gemini Live API.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
